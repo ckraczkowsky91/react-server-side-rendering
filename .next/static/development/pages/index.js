@@ -60,7 +60,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /***/ }),
 
-/***/ 0:
+/***/ 1:
 /*!******************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2FHome%2Fgithub%2Freact-server-side-rendering%2Fpages%2Findex.js ***!
   \******************************************************************************************************************************************/
@@ -83,5 +83,5 @@ module.exports = dll_ce55a549e3439867a796;
 
 /***/ })
 
-},[[0,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
